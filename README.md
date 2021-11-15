@@ -7,13 +7,13 @@ Team Project Github URL: https://github.com/Solar0214/HumanAction_VR
 # Previous Project
 
 ## 1. Golden Apple Farm (Pygame-mini-project / Solo)
-<img width="50%" src="https://user-images.githubusercontent.com/54482832/141720179-ae12170e-6b69-4d8d-9ae4-72d86682c3af.gif"/>
+<img width="50%" src=""/>
 
 ## 2. Car Detection on highway (computervision + machinelearning + prediction / Team Project)
 <img width="50%" src="https://user-images.githubusercontent.com/54482832/141727217-192e34e8-99b5-431a-8e67-643169643b58.gif"/>
 
 ## 3. Facial detection and age classifier (computervision + deeplearning + live-prediction on webcam / Team Project)
-<img width="50%" src="https://user-images.githubusercontent.com/54482832/141720179-ae12170e-6b69-4d8d-9ae4-72d86682c3af.gif"/>
+<img width="50%" src="https://user-images.githubusercontent.com/54482832/141729322-8db2f343-145c-4722-90ac-2dcb09f258dd.gif"/>
 
 ## 4. Job Recuitment Posts Data merge (MySQL + Web-Crawling / Team Project)
 <img width="75%" src="https://user-images.githubusercontent.com/54482832/141722286-569e909a-045a-4520-87b0-d556fd29f35e.png"/>
