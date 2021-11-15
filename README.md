@@ -1,7 +1,7 @@
 # A Team Project in progress...
 ## Virtual World (computervision + DL + ML + Server + Unity + 3DsMax / 3 month Team Project)
-## COMING SOON...
-## URL: https://github.com/Solar0214/HumanAction_VR
+https://media2.giphy.com/media/1dpP08xLVjgbVR6Dek/giphy.gif?cid=790b76116335377dddf95b2638f845dfa5daa612504414a8&rid=giphy.gif&ct=g
+### URL: https://github.com/Solar0214/HumanAction_VR
 ### will be added after it's done.
 
 
