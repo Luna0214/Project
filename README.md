@@ -7,7 +7,7 @@ Team Project Github URL: https://github.com/Solar0214/HumanAction_VR
 # Previous Project
 
 ## 1. Golden Apple Farm (Pygame-mini-project / Solo)
-
+<img width="30%" src="https://user-images.githubusercontent.com/54482832/141731020-9cef15cf-a488-4f2e-91f3-072e0bcab30c.png"/>
 
 ## 2. Car Detection on highway (computervision + machinelearning + prediction / Team Project)
 <img width="50%" src="https://user-images.githubusercontent.com/54482832/141727217-192e34e8-99b5-431a-8e67-643169643b58.gif"/>
