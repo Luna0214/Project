@@ -10,7 +10,7 @@
 
 
 ## 2. Job Recuitment (MySQL + Web-Crawling / Team Project)
-
+<img width="80%" src="https://user-images.githubusercontent.com/54482832/141722286-569e909a-045a-4520-87b0-d556fd29f35e.png"/>
 
 ## 3. Global Warming Natural Disasters Data Analysis (Pandas + Web-Crawling + Visualization(matplotlib) / Team Project)
 
