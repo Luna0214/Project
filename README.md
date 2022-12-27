@@ -2,7 +2,7 @@
 ## Virtual World (ComputerVision: HumanPose + DL + ML + Server + Unity / Team Project)
 <img width="40%" src="https://user-images.githubusercontent.com/54482832/209670468-2f195029-9dbc-46c3-80c5-e5908aafb38c.gif"/>
 
-Detail about this Team Project Github URL: https://github.com/Solar0214/HumanAction_VR
+Detail about this Team Project Github URL: https://github.com/Solar0214/HumanPose_VirtualWorld
 
 
 # Mini Projects
